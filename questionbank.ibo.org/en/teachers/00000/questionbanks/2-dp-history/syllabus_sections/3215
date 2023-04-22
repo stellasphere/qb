@@ -1,0 +1,3133 @@
+﻿<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<title>IB Questionbank</title>
+<link rel="stylesheet" media="all" href="../../../../../../assets/application-02ef852527079acf252dc4c9b2922c93db8fde2b6bff7c3c7f657634ae024ff1.css">
+<link rel="stylesheet" media="print" href="../../../../../../assets/print-6da094505524acaa25ea39a4dd5d6130a436fc43336c0bb89199951b860e98e9.css">
+<script src="../../../../../../assets/application-9717ccaf4d6f9e8b66ebc0e8784b3061d3f70414d8c920e3eeab2c58fdb8b7c9.js"></script>
+<script src="../../../../../../ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML-full"></script>
+<!--[if lt IE 9]>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js'></script>
+<![endif]-->
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="0/zulAjKFvj6FuPeVzRbXXpoouXU/e4DIi1llYiB4xYj7t0h/Is6ftl4h4NYY1pz94TY4LNZdakleQ58v1iQNA==">
+<link href='../../../../../../images/favicon.ico' rel='shortcut icon'>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-31569081-2', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+<script>
+  (function(h,o,t,j,a,r){
+    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    h._hjSettings={hjid:1335269,hjsv:6};
+    a=o.getElementsByTagName('head')[0];
+    r=o.createElement('script');r.async=1;
+    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    a.appendChild(r);
+  })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<script>
+  (function(){var g=function(e,h,f,g){
+    this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+    this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+    this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+    this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g;document.body&&document.body.appendChild(a)}};
+    this.start=function(){var t=this;"complete"!==document.readyState?window.addEventListener?window.addEventListener("load",function(){t.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){t.go()}):t.go()};};
+    try{(new g(100,"r","QSI_S_ZN_6hrTicMOsxtRzPo","https://zn6hrticmosxtrzpo-ibo.siteintercept.qualtrics.com/SIE/?Q_ZID=ZN_6hrTicMOsxtRzPo")).start()}catch(i){}})();
+</script>
+</head>
+<body class='teacher syllabus_sections-show'>
+<div class='qualtrics-content' id='ZN_6hrTicMOsxtRzPo'></div>
+<div class='navbar navbar-fixed-top'>
+<div class='navbar-inner'>
+<div class='container'>
+<div class='brand'>
+<div class='inner'><a href="http://ibo.org">ibo.org</a></div>
+</div>
+<ul class='nav'>
+<li><a href="http://www.follettibstore.com">IB Store</a></li>
+<li>
+<a href="../../../../../../index-1.htm?locale=en">Home</a>
+</li>
+<li class='active dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+Questionbanks
+<b class='caret'></b>
+</a>
+<ul class='dropdown-menu'>
+<li>
+<a href="../../6-dp-psychology.html">DP Psychology</a>
+</li>
+<li>
+<a href="../../2-dp-history.html">DP History</a>
+</li>
+</ul>
+</li>
+<!-- - if current_user.is_language_services? && !current_user.is_publishing? -->
+<!-- %li= link_to "Language services", tolk_path -->
+</ul>
+<ul class='nav pull-right'>
+<li class='dropdown'>
+<a class='dropdown-toggle' data-toggle='dropdown' href='#'>
+Help
+<b class='caret'></b>
+</a>
+<ul class='dropdown-menu'>
+<li><a href="../../../../../../video_tour.html?locale=en">Video tour</a></li>
+<li><a href="../../../../../../instructions.html?locale=en">Detailed instructions</a></li>
+<li><a href="mailto:ibcustomerservice@follettlearning.com">Contact us</a></li>
+</ul>
+</li>
+<li>
+<a href="https://06082010.xyz">IB Docs 2 Team</a>
+</li>
+
+</ul>
+</div>
+</div>
+</div>
+
+<div class='page-content container'>
+<div class='row'>
+<div class='span24'>
+
+<div class="pull-right screen_only"><a class="btn btn-small btn-info" href="../../../../../../updates.html?locale=en">Updates to Questionbank</a></div>
+<p class='muted language_chooser'>
+User interface language:
+<a href="../../../../../../index-1.htm?new_locale=en">English</a>
+|
+<a href="../../../../../../index-2.htm?new_locale=es">Español</a>
+</p>
+</div>
+</div>
+
+
+
+<div class='page-header'>
+<div class='row'>
+<div class='span16'>
+<h1>DP History Questionbank</h1>
+</div>
+<div class='span8' style='margin: 0 0 -19px 0;'>
+<img style="width: 100%;" class="qb_logo" src="../../../../../../assets/logos/ib-qb-2-logo-37d20f142a034bfdb7ecc3e260e657581c83225ebe8b4b4c0608132188ec530a.jpg">
+</div>
+</div>
+</div>
+<ul class='nav nav-tabs'>
+<li>
+
+</li>
+<li>
+
+</li>
+<li class='active'>
+<a href="../syllabus_sections.html">Syllabus</a>
+</li>
+</ul>
+
+<h2>HL option 1: History of Africa and the Middle East</h2>
+<div class='well' style='margin-top: 1em;'>
+<table>
+<tr>
+<td>Path:&nbsp;</td>
+<td><div><a href="/en/teachers/121895/questionbanks/2-dp-history/syllabus_sections/3214">HL options: first exams 2017</a> &raquo; <a href="3215">HL option 1: History of Africa and the Middle East</a></div></td>
+</tr>
+</table>
+</div>
+<div class='module'>
+<h3>Description</h3>
+<p><strong>1: The &lsquo;Abbasid dynasty (750&ndash;1258)</strong></p>
+<p><strong>2: The Fatimids (909&ndash;1171)</strong></p>
+<p><strong>3: The Crusades (1095&ndash;1291)</strong></p>
+<p><strong>4: The Ottomans (1281&ndash;1566)</strong></p>
+<p><strong>5: Trade and the rise and decline of African states and empires (800&ndash;1600)</strong></p>
+<p><strong>6: Pre-colonial African states (1800&ndash;1900)</strong></p>
+<p><strong>7: The slave trade in Africa and the Middle East (1500&ndash;1900)</strong></p>
+<p><strong>8: European imperialism and the partition of Africa (1850&ndash;1900)</strong></p>
+<p><strong>9</strong><strong>: Response to European imperialism (1870&ndash;1920)</strong></p>
+<p><strong>10: Africa under colonialism (1890&ndash;1980)</strong></p>
+<p><strong>11: 20th-century nationalist and independence movements in Africa</strong><strong><br></strong></p>
+<p><strong>12: The Ottoman Empire (c1800&ndash;1923)<br></strong></p>
+<p><strong>13: War and change in the Middle East and North Africa 1914&ndash;1945<br></strong></p>
+<p><strong>14: Africa, international organizations and the international community (20th century)<br></strong></p>
+<p><strong>15: Developments in South Africa 1880&ndash;1994<br></strong></p>
+<p><strong>16: Social and cultural developments in Africa in the 19th and 20th centuries<br></strong></p>
+<p><strong>17: Post-war developments in the Middle East (1945&ndash;2000)<br></strong></p>
+<p><strong>18: Post-independence politics in Africa to 2005</strong></p>
+</div>
+<hr>
+<div class='module'>
+<h3>Directly related questions</h3>
+<ul>
+<li>
+17M.3op1.HL.TZ0.2:
+<a href="../questions/163655.html">To what extent did rifts and divisions within the ‘Abbasid Empire contribute to its decline?</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.3:
+<a href="../questions/163658.html">Evaluate the importance of economic and social factors in the rise to power of the Fatimids.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.5:
+<a href="../questions/163660.html">Discuss the reasons why the crusading movement failed to repeat the success of the First Crusade.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.7:
+<a href="../questions/163662.html">Evaluate the factors that contributed to the Ottoman rise to power.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.14:
+<a href="../questions/163669.html">Examine the impact of anti-slavery legislation in the 19th century.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.16:
+<a href="../questions/163673.html">Evaluate the impact of Leopold II and De Brazza in the Congo region.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.17:
+<a href="../questions/163674.html">Evaluate Mandinka resistance to French rule.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.18:
+<a href="../questions/163675.html">“The advantages of collaboration with colonial powers outweighed the disadvantages.” To what...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.19:
+<a href="../questions/163676.html">Evaluate the factors that contributed to the creation of the Central African Federation.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.20:
+<a href="../questions/163677.html">Discuss social and economic development in Nigeria under the British.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.24:
+<a href="../questions/163681.html">Evaluate the impact of the First World War on the Ottoman Empire.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.25:
+<a href="../questions/163682.html">“The Paris peace treaties created more conflict than peace in the Middle East.” Discuss.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.26:
+<a href="../questions/163683.html">Examine the impact of the First World War on the movement for Egyptian independence.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.27:
+<a href="../questions/163684.html"><p>Examine the impact of the Organisation of African Unity (OAU) and the African Union (AU) up to 2000.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.28:
+<a href="../questions/163685.html"><p>Compare and contrast the results of United Nations (UN) intervention in Congo and Mozambique.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.31:
+<a href="../questions/163688.html">Examine the ways in which colonialism changed the role and status of women in Africa.</a>
+</li>
+<li>
+17M.3op2.HL.TZ0.9:
+<a href="../questions/163664.html">Evaluate the reasons for the rise of the Ghana Empire.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.33:
+<a href="../questions/163690.html">Examine the reasons for the outcome of the Six Day War and the 1973 War.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.12:
+<a href="../questions/163667.html">Discuss the reasons for the rise of the Mahdist state in Sudan.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.22:
+<a href="../questions/163679.html">Evaluate Nkrumah’s contribution to Ghana’s achievement of independence.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.32:
+<a href="../questions/163689.html">With reference to two countries, discuss the impact of colonialism on African art and culture.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.1:
+<a href="../questions/163654.html">With reference to the period up to 900, discuss the consequences of the ‘Abbasid Revolution.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.4:
+<a href="../questions/163659.html"><p>“Institutions of learning (Dar al-‘Ilm) were more significant than government institutions during the height of the Fatimid Empire.” Discuss.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.6:
+<a href="../questions/163661.html"><p>“Weapons rather than tactics determined the outcome of the Crusades.” Discuss with reference to <strong>two</strong> of: the First Crusade (1096–1099); the Second Crusade (1145–1149); the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.8:
+<a href="../questions/163663.html"><p>Evaluate the impact of the foundation of the Ottoman Empire on Europe and Muslim lands.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.10:
+<a href="../questions/163665.html">Evaluate the reasons for the decline of the Mali Empire by 1600.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.11:
+<a href="../questions/163666.html">Discuss the factors that contributed to the rise of the Zulu Kindgom.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.13:
+<a href="../questions/163668.html">“The expansion of the East African slave trade was simply an extension of existing practices.”...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.15:
+<a href="../questions/163670.html">“Economic weaknesses in Europe were the main cause of the partition of Africa.” Discuss.</a>
+</li>
+<li>
+17M.3op2.HL.TZ0.21:
+<a href="../questions/163678.html"><p>Examine the role played by the South West Africa People’s Organisation (SWAPO) in the achievement of Namibian independence.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.23:
+<a href="../questions/163680.html">“The actions of the major powers were the most significant factor in Greece gaining independence...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.29:
+<a href="../questions/163686.html"><p>Evaluate the causes of the South African War (1899–1902).</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.30:
+<a href="../questions/163687.html">Evaluate the importance of international opposition to apartheid.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.35:
+<a href="../questions/163692.html">Examine the impact of ethnic conflict in two African countries.</a>
+</li>
+<li>
+17M.3op2.HL.TZ0.36:
+<a href="../questions/163693.html">With reference to two post-independence African countries, examine the reasons for economic...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.34:
+<a href="../questions/163691.html">To what extent did Mohammad Reza Shah Pahlavi modernize and westernize Iran?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.1:
+<a href="../questions/636754.html">“Economic development was the most significant aspect of the first century of ‘Abbasid rule.” To...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.7:
+<a href="../questions/636866.html">“A lack of opposition was the major reason for the success of Ottoman expansion.” Discuss.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.13:
+<a href="../questions/636888.html">“The most important reasons for the expansion of the Atlantic slave trade were rivalries and...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.15:
+<a href="../questions/636890.html">Evaluate the role of national rivalry in the partition of Africa.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.6:
+<a href="../questions/636865.html">To what extent was Muslim success during the Crusades the result of their weapons and tactics?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.14:
+<a href="../questions/636889.html">To what extent was colonial expansion the main factor in the decline of the East African slave...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.16:
+<a href="../questions/636891.html">Compare and contrast the activities of King Leopold II of Belgium and De Brazza in the Congo region.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.19:
+<a href="../questions/636895.html">Compare and contrast the impact of German and British rule in Tanganyika.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.18:
+<a href="../questions/636893.html">“Collaboration with the British was mainly influenced by the prospect of political gain.” Discuss...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.24:
+<a href="../questions/636901.html">Evaluate the impact of the First World War on the Ottoman Empire up to 1923.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.29:
+<a href="../questions/636908.html"><p>Evaluate the effectiveness of protest against the segregation policies of Smuts and Hertzog (1910–1948).</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.21:
+<a href="../questions/636898.html">Compare and contrast the factors that led to the independence of Angola and South-West Africa.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.30:
+<a href="../questions/636909.html"><p>“De Klerk’s actions had limited impact on the end of the apartheid system.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.23:
+<a href="../questions/636900.html">To what extent can Abdul Hamid be considered a reformer?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.8:
+<a href="../questions/636867.html">“The Ottoman Empire made limited changes to the Islamic world.” To what extent do you agree with...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.28:
+<a href="../questions/636907.html"><p>“United Nations intervention was a complete failure.” Discuss with reference to <strong>two</strong> of the following: Congo, Mozambique, Somalia, Rwanda.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.5:
+<a href="../questions/636864.html">Discuss the importance of secular motives for those who participated in the Crusades.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.11:
+<a href="../questions/636886.html"><p>Discuss the social, economic and political causes of the Mfecane/Difaqane.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.25:
+<a href="../questions/636903.html">Evaluate British administration in Iraq and Transjordan.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.34:
+<a href="../questions/636918.html">“Economic problems were the main cause of the 1979 Iranian Revolution.” To what extent do you...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.9:
+<a href="../questions/636868.html">“Trade was more important than the influence of Catholicism to the rise and expansion of the...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.12:
+<a href="../questions/636887.html">Discuss the main reasons for the rise of two of the following: the Mandinka Empire under Samori...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.33:
+<a href="../questions/636917.html"><p>Discuss the causes of, and the effects of, the intifadas.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.4:
+<a href="../questions/636863.html"><p>Evaluate the importance of institutions of learning (Dar al-’Ilm) in supporting Fatimid power.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.27:
+<a href="../questions/636906.html"><p>Examine the reasons for the successes <strong>and</strong> failures of the Economic Community of West African States (ECOWAS).</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.2:
+<a href="../questions/636860.html">Examine the role of religion in the maintenance of ‘Abbasid rule.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.20:
+<a href="../questions/636896.html">“Regional differences were the main factor in shaping political developments in Nigeria during...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.3:
+<a href="../questions/636862.html">To what extent did divisions within the Fatimid Empire weaken their claim to the caliphate?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.26:
+<a href="../questions/636905.html">“Jewish immigration to Palestine was the main cause of Arab-Jewish tensions up to 1939.” Discuss.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.31:
+<a href="../questions/636910.html">Examine the reasons for the spread of Christianity in Africa in the 19th and 20th centuries.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.10:
+<a href="../questions/636869.html">Examine the role of systems of government in the rise and decline of the Ghana Empire.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.17:
+<a href="../questions/636892.html">Examine the results of Menelik II’s resistance to European imperialism in Ethiopia.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.36:
+<a href="../questions/636920.html">With reference to two African countries, examine the reasons for their success or failure in...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.35:
+<a href="../questions/636919.html">“Personal ambition was the main cause of ethnic conflict.” Discuss with reference to two African...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.22:
+<a href="../questions/636899.html">Evaluate the contributions of internal and external factors in the achievement of independence in...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.32:
+<a href="../questions/636911.html">Compare and contrast the impact of colonialism on cultural values in two African countries.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.01:
+<a href="../questions/218300.html"><p>Evaluate the view that the ‘Abbasid Revolution was mainly a religious revolution.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.02:
+<a href="../questions/218301.html">To what extent did the ‘Abbasid dynasty draw upon the Sassanian heritage in the organization of...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.03:
+<a href="../questions/218302.html"><p>Discuss the impact of the foundation of Cairo (969) on political <strong>and</strong> social developments in the Fatimid Empire.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.04:
+<a href="../questions/218304.html"><p>Evaluate the impact on the Fatimid Empire of <strong>either</strong> al-Hakim (996–1021)<strong> or</strong> al-Mustansir (1036–1094).</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.05:
+<a href="../questions/218305.html"><p>“The First Crusade (1096–1099) was motivated by religious rather than secular concerns.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.06:
+<a href="../questions/218307.html"><p>Compare and contrast the tactics used by both sides during the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.07:
+<a href="../questions/218308.html"><p>Evaluate the impact on the Ottoman Empire of contest [competition] with the Safavids.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.08:
+<a href="../questions/218309.html"><p>To what extent did the fall of Constantinople (1453) transform the Ottoman state?</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.09:
+<a href="../questions/218310.html">Evaluate the influence of Catholicism in the Kingdom of the Kongo.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.10:
+<a href="../questions/218311.html">Discuss the causes of the rise and decline of the Mali Empire.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.11:
+<a href="../questions/218315.html">“The social effects of the rise of the Sokoto Caliphate were more significant than the political...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.12:
+<a href="../questions/218321.html">“The role of religion in the rise of the Mahdist state in Sudan has been greatly exaggerated.”...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.13:
+<a href="../questions/218322.html">“Rivalries and warfare between African states were the main causes of the expansion of the...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.14:
+<a href="../questions/218323.html">Evaluate the significance of colonial expansion to the decline of the East African slave trade.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.15:
+<a href="../questions/218324.html">Evaluate the impact of British actions in Egypt and South Africa on the partition of Africa.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.16:
+<a href="../questions/218325.html">Evaluate the factors that facilitated German annexation in Africa.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.17:
+<a href="../questions/218326.html">Evaluate the factors that influenced African decisions to resist European imperialism.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.18:
+<a href="../questions/218327.html">“The conquest and destruction of the Zulu kingdom was mainly a consequence of Cetshwayo’s poor...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.19:
+<a href="../questions/218328.html"><p>Evaluate the main features of British rule in Tanganyika.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.20:
+<a href="../questions/218329.html">Evaluate the economic development of the Gold Coast up to 1957.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.21:
+<a href="../questions/218330.html"><p>Compare and contrast the role of the Kenya African National Union (KANU) and the Tanganyika African National Union (TANU) in the achievement of independence in Kenya and Tanganyika respectively.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.23:
+<a href="../questions/218332.html"><p>Evaluate the challenges to Ottoman power during the first half of the 19th century.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.34:
+<a href="../questions/218346.html"><p>“The outbreak of civil war in Lebanon in 1975 was mainly caused by outside interference.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.22:
+<a href="../questions/218331.html">“Nationalist movements were the main factor in the achievement of independence in French West...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.25:
+<a href="../questions/218334.html"><p>“Allied diplomacy in the Middle East was motivated by self-interest.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.30:
+<a href="../questions/218341.html"><p>Evaluate the reasons why the African National Congress (ANC) adopted armed struggle.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.32:
+<a href="../questions/218344.html">Evaluate the impact of developments in education in two African countries.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.33:
+<a href="../questions/218345.html">“The creation of the state of Israel in 1948 was the result of tensions and instability in...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.24:
+<a href="../questions/218333.html">“The decline of Ottoman power was the main reason for the Ottoman Empire’s entry into the First...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.26:
+<a href="../questions/218336.html">Evaluate the success of Ataturk’s rule in the Turkish Republic up to 1938.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.27:
+<a href="../questions/218337.html"><p>“The failure of the League of Nations to deal with Italian aggression had more significant consequences for Abyssinia [Ethiopia] than it did for the League.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.28:
+<a href="../questions/218338.html"><p>Evaluate the reasons why the United Nations (UN) failed in Rwanda.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.31:
+<a href="../questions/218342.html">“African Independent Churches emerged because colonial rule was unpopular.” To what extent do you...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.35:
+<a href="../questions/218347.html"><p>Evaluate the responses of <strong>two</strong> African countries to the post-independence challenges of disease and poverty.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.36:
+<a href="../questions/218348.html"><p>With reference to <strong>two</strong> African countries, evaluate the success of African states in the return to multi-party democracy in the 1980s and 1990s.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.29:
+<a href="../questions/218339.html"><p>“The British won the South African War (1899–1902) but the Boers won the post-war peace.” Discuss.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.1:
+<a href="../questions/696214.html">Evaluate the consequences of the shift of power from Syria to Iraq.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.2:
+<a href="../questions/696316.html">“The size of the ‘Abbasid Empire was the main reason for its decline.” To what extent do you...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.10:
+<a href="../questions/696334.html">Discuss the importance of the Indian Ocean trade in the rise and growth of the Swahili city states.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.13:
+<a href="../questions/696344.html">“The most important impact of the slave trade in Africa was economic.” To what extent do you...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.30:
+<a href="../questions/696378.html">Evaluate the contribution of the Black Consciousness movement to resisting apartheid.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.31:
+<a href="../questions/696380.html">To what extent did colonialism change social and cultural values in any two African countries?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.11:
+<a href="../questions/696338.html">“Trade played the most important role in the rise of the Niger Delta trading states.” To what...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.14:
+<a href="../questions/696346.html">Evaluate the role of colonial expansion in the decline of the East African slave trade in the...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.15:
+<a href="../questions/696347.html">“African political and cultural disunity was the main reason for partition.” To what extent do...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.18:
+<a href="../questions/696352.html">Discuss the reasons for resistance and collaboration with the colonial power in Buganda.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.20:
+<a href="../questions/696357.html">Examine the contribution of constitutional developments to the independence of Nigeria to 1960.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.5:
+<a href="../questions/696326.html"><p>Evaluate the importance of leadership in determining the outcome of the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.7:
+<a href="../questions/696328.html">Evaluate the reasons for Ottoman success in their struggle with the Safavids.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.8:
+<a href="../questions/696329.html">“The capture of Constantinople transformed the Ottoman state.” To what extent do you agree with...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.12:
+<a href="../questions/696341.html">Examine the importance of leadership to the rise of two of the following: the Mandinka empire...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.19:
+<a href="../questions/696354.html">Compare and contrast German and British rule in Tanganyika to 1961.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.22:
+<a href="../questions/696363.html">To what extent were political parties responsible for the independence of Senegal in 1960?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.23:
+<a href="../questions/696364.html">“The rise of nationalism was the main challenge to Ottoman power up to 1840.” To what extent do...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.33:
+<a href="../questions/696385.html"><p>With reference to the period between 1945 and 1956, evaluate the causes and effects of the 1948–49 War in the Middle East.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.34:
+<a href="../questions/696386.html"><p>Discuss the reasons for the rise and collapse of the United Arab Republic (UAR).</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.4:
+<a href="../questions/696324.html">“The policy of religious toleration was responsible for the strength of the Fatimid Empire.”...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.6:
+<a href="../questions/696327.html">“The Crusades had a negative impact on the Middle East.” To what extent do you agree with this...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.9:
+<a href="../questions/696333.html">To what extent was the Almoravid jihad responsible for the fall of the Ghana Empire?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.16:
+<a href="../questions/696350.html">Evaluate the impact of the Berlin West Africa Conference on the partition of Africa.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.32:
+<a href="../questions/696382.html">With reference to two African countries, examine the view that technological developments had a...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.35:
+<a href="../questions/696388.html">Compare and contrast the causes of ethnic conflict in two African countries.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.36:
+<a href="../questions/696390.html">“The failure of democracy was the main reason for the establishment of single-party states.”...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.29:
+<a href="../questions/696376.html">Evaluate the impact of the segregation policies of Smuts and Hertzog between 1910 and 1948.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.17:
+<a href="../questions/696351.html">To what extent was Cetshwayo responsible for the conquest and destruction of the Zulu kingdom?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.21:
+<a href="../questions/696360.html"><p>“The actions of the South West Africa People’s Organization (SWAPO) were the most important factor in Namibia becoming independent.” Discuss.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.26:
+<a href="../questions/696370.html">“Ataturk was successful in achieving his aims.” To what extent do you agree with this statement?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.24:
+<a href="../questions/696368.html">Evaluate the reasons for the failure of the Young Turks to reform the Ottoman Empire after 1908.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.25:
+<a href="../questions/696369.html">“The Declaration of Independence reduced British influence in Egypt after 1922.” Discuss.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.27:
+<a href="../questions/696371.html"><p>“The Organization of African Unity (OAU) failed to achieve its objectives.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.28:
+<a href="../questions/696374.html">“The UN was successful in its interventions in Africa.” Discuss with reference to two of the...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.3:
+<a href="../questions/696321.html">“The Fatimids had little impact on the Muslim world.” To what extent do you agree with this...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.1:
+<a href="../questions/261261.html">“While there was significant political development during the first century of ‘Abbasid rule,...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.4:
+<a href="../questions/261265.html"><p>Discuss the reasons for the decline of the Fatimids.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.3:
+<a href="../questions/261263.html">“The Fatimids had a significant impact on the development of trade during the period from 909 to...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.6:
+<a href="../questions/261269.html"><p>“Salah al-Din (Saladin) made the most significant contribution to Muslim success during the period of the Crusades.” Discuss.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.17:
+<a href="../questions/261293.html"><p>“Economic discontent was the major factor that led to Mandinka resistance to French rule.” Discuss.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.32:
+<a href="../questions/261317.html">With reference to two countries, evaluate the social and cultural impact of technological...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.10:
+<a href="../questions/261284.html"><p>Evaluate the reasons for the rise and expansion of the Kingdom of the Kongo to 1600.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.13:
+<a href="../questions/261289.html">Discuss the reasons for the expansion of the East African slave trade from the late 18th century.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.16:
+<a href="../questions/261292.html">“The search for new markets was the main economic cause of the partition of Africa.” Discuss.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.19:
+<a href="../questions/261296.html">Evaluate the economic and social impact of British rule in Kenya to 1963.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.31:
+<a href="../questions/261315.html">Evaluate the factors that promoted and inhibited the spread of Islam in Africa in the 19th and...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.8:
+<a href="../questions/261280.html"><p>To what extent did the fall of Constantinople (1453) transform the Ottoman Empire?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.20:
+<a href="../questions/261297.html"><p>Discuss the strengths <strong>and </strong>weaknesses of the colonial administration of Senegal to 1960.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.27:
+<a href="../questions/261307.html"><p>Discuss the reasons for the formation <strong>and </strong>the collapse of the East African Community (EAC) (1967–1977).</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.33:
+<a href="../questions/261318.html"><p>To what extent were the political developments <strong>and </strong>economic policies of Nasser successful?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.34:
+<a href="../questions/261319.html">“The 1979 Revolution in Iran was the result of the policies of Mohammad Reza Shah Pahlavi.” Discuss.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.9:
+<a href="../questions/261283.html">Evaluate the role of trade in the Islamization of East and West Africa.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.14:
+<a href="../questions/261290.html"><p>“The abolitionist movement was the major factor in the decline of the Atlantic Slave trade.” Discuss.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.28:
+<a href="../questions/261309.html">Evaluate the impact of the Cold War on two African countries.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.36:
+<a href="../questions/261321.html">“The need for effective government was the most important reason for the establishment of...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.11:
+<a href="../questions/261285.html">Discuss the reasons for the rise of the Sokoto Caliphate.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.12:
+<a href="../questions/261288.html">Evaluate the role of political organization in the rise of two of the following: the Mandinka...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.15:
+<a href="../questions/261291.html"><p>To what extent was the decline of the Ottoman Empire the most significant reason for the growth of European activity in Africa?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.18:
+<a href="../questions/261295.html">Evaluate the reasons for the failure of Herero and Nama resistance in Namibia.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.22:
+<a href="../questions/261300.html"><p>To what extent did the Tanganyika African National Union (TANU) contribute to Tanganyika’s achievement of independence?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.23:
+<a href="../questions/261302.html"><p>Discuss the impact of the Crimean War on the Ottoman Empire.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.24:
+<a href="../questions/261303.html"><p>Evaluate the reasons for the entry of the Ottoman Empire into the First World War.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.26:
+<a href="../questions/261306.html"><p>Evaluate the attempts at modernization in Iran <strong>or </strong>Saudi Arabia <strong>or one </strong>North African state.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.29:
+<a href="../questions/261312.html">To what extent did economic issues cause the South African War?</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.35:
+<a href="../questions/261320.html">“Poverty and disease were the most significant social and economic challenges facing African...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.2:
+<a href="../questions/261262.html">“Al-Ma’mun was an effective ruler.” To what extent do you agree with this statement?</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.7:
+<a href="../questions/261271.html">“Administrative efficiency was the major factor in the success of the Ottoman Empire.” Discuss.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.21:
+<a href="../questions/261299.html">Evaluate the role of nationalist movements in the achievement of independence in Angola.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.5:
+<a href="../questions/261267.html">“Religion was the main reason for the foundation of the crusader states.” To what extent do you...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.25:
+<a href="../questions/261305.html">“The Arab Revolt had little impact on the territorial settlement in the Middle East after the...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.30:
+<a href="../questions/261314.html">Discuss the reasons why policy in South Africa changed from segregation to apartheid in 1948. </a>
+</li>
+<li>
+21N.3op1.HL.TZ0.3:
+<a href="../questions/800936.html">“The impact of the Fatimid conquest of Egypt was mainly economic.” Discuss.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.10:
+<a href="../questions/800956.html">“The most important factor in the rise of the Mali Empire was its military organization.” To what...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.7:
+<a href="../questions/800950.html">Evaluate the reasons for the rise of the Ottomans in Anatolia.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.8:
+<a href="../questions/800951.html">Evaluate the contribution of the Ottomans to Islamic culture.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.9:
+<a href="../questions/800952.html">Examine the significance of trade routes to the rise and decline of the Ghana Empire.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.11:
+<a href="../questions/800957.html">Evaluate the importance of social and political organization to the rise of the Sotho.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.13:
+<a href="../questions/800964.html">“The growth of the Atlantic slave trade was mainly an extension of existing practices of slavery...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.2:
+<a href="../questions/800908.html">To what extent can Harun al-Rashid be considered a successful ruler?</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.1:
+<a href="../questions/800905.html">Evaluate the impact of the Sassanians on the ‘Abbasid dynasty.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.4:
+<a href="../questions/800945.html">Examine the contribution of religious relations to the maintenance of power of the Fatimid Empire.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.5:
+<a href="../questions/800948.html"><p>Evaluate the reasons for the success of the First Crusade (1096–1099).</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.6:
+<a href="../questions/800949.html">Evaluate the impact of the Hospitallers and Templars on the Crusades.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.12:
+<a href="../questions/800963.html">“The main effect of the rise of the Sokoto Caliphate was economic change.” To what extent do you...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.14:
+<a href="../questions/800965.html">Evaluate the role of humanitarian factors in the decline of the East African slave trade.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.19:
+<a href="../questions/800978.html">Compare and contrast the impact of settlers in one British colony and one Portuguese colony.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.25:
+<a href="../questions/800994.html">Examine the reasons for, and the results of, the mandate system in Syria and Lebanon.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.28:
+<a href="../questions/801006.html">Examine the consequences of siding with the United States or the Soviet Union for two African...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.33:
+<a href="../questions/801049.html">Evaluate the impact of the Six Day War on Israel and Arab states up to 1978.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.35:
+<a href="../questions/801052.html">Evaluate the impact of military rule in two African countries.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.18:
+<a href="../questions/800977.html"><p>“The most important reasons for British intervention in the Asante Wars (1873, 1896, 1900) were economic.” Discuss.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.20:
+<a href="../questions/800980.html">“The impact of colonial administration was entirely negative for the Senegalese.” Discuss.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.21:
+<a href="../questions/800984.html"><p>Compare and contrast how independence was achieved in Tanganyika and South-West Africa.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.30:
+<a href="../questions/801041.html">Evaluate the contribution of township unrest in the 1980s to the end of the apartheid system.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.22:
+<a href="../questions/800988.html"><p>Evaluate the contribution of political parties to the achievement of independence in French West Africa.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.23:
+<a href="../questions/800991.html">“Rising nationalism was the main reason for the decline of the Ottoman Empire in the early 19th...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.15:
+<a href="../questions/800971.html">“Strategic factors were the most important reasons for the partition of Africa.” Discuss.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.16:
+<a href="../questions/800973.html">“The Berlin West Africa Conference had little impact on the partition of Africa.” To what extent...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.17:
+<a href="../questions/800976.html">“Strong African states resisted imperialism while weaker states collaborated.” To what extent do...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.24:
+<a href="../questions/800993.html">To what extent was fear of Russian expansion the main reason for Ottoman entry into the First...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.26:
+<a href="../questions/801003.html">To what extent were attempts at modernization in Iran or Saudi Arabia or one North African state...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.27:
+<a href="../questions/801004.html"><p>“The Economic Community of West African States (ECOWAS) was more successful than the Southern African Development Coordination Conference (SADCC).” Discuss.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.29:
+<a href="../questions/801022.html">Compare and contrast the nature of segregation and apartheid policies.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.32:
+<a href="../questions/801048.html">With reference to two African countries, evaluate the impact of technological developments on...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.34:
+<a href="../questions/801050.html">To what extent were the economic and social policies of Nasser successful?</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.36:
+<a href="../questions/801055.html">Evaluate the impact of neo-colonial economic exploitation in two African countries.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.31:
+<a href="../questions/801042.html">“Anti-colonialism was the most important reason for the creation of the African Independent...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.27:
+<a href="../questions/336035.html">Discuss the reasons for the failure of UN intervention in Somalia up to 1995.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.36:
+<a href="../questions/336046.html">Compare and contrast the impact of military rule on two post-independence African countries.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.23:
+<a href="../questions/336029.html"><p>Evaluate the reasons for, and the results of, Muhammad Ali’s challenge to Ottoman power.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.33:
+<a href="../questions/336041.html">Discuss the effects of the 1948–1949 War on Israel up to 1956.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.8:
+<a href="../questions/335994.html"><p>Discuss the achievements of <strong>two</strong> of the following Ottoman leaders: Mehmet II (1451–1481); Selim I (1512–1520); Suleiman the Magnificent (1520–1566).</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.19:
+<a href="../questions/336025.html">“The impact of Portuguese rule in Angola and Mozambique was entirely negative.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.35:
+<a href="../questions/336045.html">“Destabilization by outside forces was the main cause of conflict.” Discuss with reference to two...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.15:
+<a href="../questions/336008.html">To what extent was the partition of Africa caused by British concerns over control of the sea...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.17:
+<a href="../questions/336023.html">Compare and contrast the responses of the Mandinka and the Zulu to challenges to their independence.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.25:
+<a href="../questions/336032.html"><p>Evaluate the impact of French administration in Syria and Lebanon.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.32:
+<a href="../questions/336040.html">“The impact of colonialism on the role of African women was mostly positive.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.2:
+<a href="../questions/335985.html"><p>To what extent was the collapse of the ‘Abbasid dynasty caused by the Mongol invasion?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.13:
+<a href="../questions/336006.html">Discuss the role of two individuals in the slave trade in Africa.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.21:
+<a href="../questions/336027.html">Evaluate the factors that contributed to Senegalese independence to 1960.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.4:
+<a href="../questions/335989.html">“Fatimid claims to the caliphate were weaker than those of the ‘Abbasids and of the Umayyads of...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.34:
+<a href="../questions/336043.html"><p>To what extent was Nasser responsible for the collapse of the United Arab Republic (UAR)?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.7:
+<a href="../questions/335992.html"><p>To what extent was the Ottoman expansion into Anatolia and the Balkans achieved through warfare?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.3:
+<a href="../questions/335987.html">Evaluate the role of political and economic factors in the foundation of the Fatimid dynasty.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.28:
+<a href="../questions/336036.html">Evaluate the impact of two UN specialized agencies in Africa.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.16:
+<a href="../questions/336015.html">“The activities of King Leopold II of Belgium in the Congo were a more important factor in...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.18:
+<a href="../questions/336024.html">Discuss the reasons why Lewanika and Khama decided to collaborate with the British.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.9:
+<a href="../questions/335995.html">Evaluate the importance of the trans-Saharan trade in gold and salt to the rise of the Ghana Empire.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.24:
+<a href="../questions/336031.html"><p>Evaluate the impact of the Committee of Union and Progress on the Ottoman Empire.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.1:
+<a href="../questions/335984.html">“The success of ‘Abbasid rule up to 850 was mainly due to political factors.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.11:
+<a href="../questions/335997.html">Evaluate the effects of the Mfecane/Difaqane.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.22:
+<a href="../questions/336028.html"><p>Evaluate the importance of Julius Nyerere in the achievement of Tanganyikan independence up to 1961.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.31:
+<a href="../questions/336039.html">Discuss the impact of immigration and emigration in two African countries.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.10:
+<a href="../questions/335996.html">Discuss the factors that contributed to the emergence of a cosmopolitan Swahili culture.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.14:
+<a href="../questions/336007.html">Evaluate the reasons for the decline of slavery in the Ottoman Empire.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.20:
+<a href="../questions/336026.html">Evaluate the factors that promoted the choice of administrative systems in Nigeria.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.26:
+<a href="../questions/336034.html"><p>With reference to the period between 1914 and 1945, evaluate political <strong>and</strong> social developments in <strong>one</strong> of the following: Iran; Saudi Arabia; a North African state.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.29:
+<a href="../questions/336037.html"><p>Discuss the impact of the policy of segregation between 1910 and 1948.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.30:
+<a href="../questions/336038.html">Evaluate the importance of Sharpeville to the struggle against apartheid.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.6:
+<a href="../questions/335991.html"><p>Discuss the impact of the Crusades on the Byzantine Empire.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.12:
+<a href="../questions/336001.html">Examine the roles of Yohannes IV and Menelik II in the unification and expansion of Ethiopia.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.5:
+<a href="../questions/335990.html">Discuss the reasons for the collapse of the Crusader states.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.3:
+<a href="../questions/880591.html">“Economic factors were more important than social factors to the foundation of the Fatimid...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.14:
+<a href="../questions/880623.html">To what extent did the 1807 Slave Trade Act impact the slave trade in Africa?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.22:
+<a href="../questions/880644.html">To what extent was nationalism the main factor in Senegal becoming independent?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.2:
+<a href="../questions/880587.html">To what extent did religious divisions cause the decline of the ‘Abbasid Empire?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.8:
+<a href="../questions/880600.html">“The desire for wealth was the most important reason for the Ottoman capture of Constantinople.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.9:
+<a href="../questions/880610.html">Evaluate the importance of trans-Saharan trade in gold and salt to African states.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.13:
+<a href="../questions/880620.html">Evaluate the economic and social impact of the Atlantic slave trade in Africa.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.10:
+<a href="../questions/880613.html">“Political organization was the main factor in the rise and expansion of the Kingdom of Kongo.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.1:
+<a href="../questions/880581.html">Evaluate the impact of Harun al-Rashid on the ‘Abbasid Empire.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.4:
+<a href="../questions/880592.html">“Fatimid ideology had limited impact on the Muslim world.” To what extent do you agree with this...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.5:
+<a href="../questions/880595.html">“Religious belief was the main reason for participation in the Crusades.” Discuss.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.7:
+<a href="../questions/880604.html">Discuss the reasons for, and impact of, the Ottoman conquest of Egypt and Syria.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.11:
+<a href="../questions/880617.html">Compare and contrast the rise of the Zulu under Shaka and the Sotho under Moshoeshoe.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.12:
+<a href="../questions/880618.html">Evaluate the contributions of both Tewodros II and Yohannes IV to the unification of Ethiopia.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.18:
+<a href="../questions/880635.html">“African pragmatism was the most important factor in the decision to collaborate with European...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.19:
+<a href="../questions/880638.html">Evaluate the economic and social developments in Angola under Portuguese rule to 1975.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.21:
+<a href="../questions/880642.html">“The Mau Mau uprising had little impact on the struggle for Kenyan independence.” Discuss.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.6:
+<a href="../questions/880597.html">Evaluate the impact of the Crusades in the Middle East.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.15:
+<a href="../questions/880625.html">To what extent was European national rivalry the main cause of the partition of Africa?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.17:
+<a href="../questions/880633.html">“The brutality of the colonizing powers was the main reason for resistance by African states.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.20:
+<a href="../questions/880640.html">“British policies were responsible for the creation of regional rivalries in Nigeria up to 1960.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.23:
+<a href="../questions/880646.html">Discuss the causes of the Greek War of Independence and its impact on the Ottoman Empire.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.24:
+<a href="../questions/880648.html">Evaluate the impact of the reforms implemented by the Young Turks.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.27:
+<a href="../questions/880659.html"><p>Evaluate the effectiveness of the Organization of African Unity (OAU) in achieving its objectives.</p></a>
+</li>
+<li>
+22M.3op1.HL.TZ0.28:
+<a href="../questions/880660.html">“UN specialized agencies had a limited impact in Africa.” Discuss with reference to two agencies.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.30:
+<a href="../questions/880665.html">“International opposition was the most important reason for the collapse of apartheid.” To what...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.31:
+<a href="../questions/880672.html">Examine the factors that promoted and limited the spread of Christianity in 19th century Africa.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.33:
+<a href="../questions/880686.html">“Post-war tensions and instability were the most important reasons for the origin of the state of...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.35:
+<a href="../questions/880688.html">Compare and contrast the impact of civil war in two African countries.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.36:
+<a href="../questions/880689.html">Discuss the reasons for the establishment of single-party states in two African countries.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.25:
+<a href="../questions/880650.html">“The First World War was the most important reason for the growth of the nationalist movement in...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.26:
+<a href="../questions/880657.html">“Western influences had a significant impact on economic and social developments.” Discuss with...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.29:
+<a href="../questions/880661.html">Examine the political and economic consequences for the Boers of the discovery of gold.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.34:
+<a href="../questions/880687.html"><p>“The Confessional state was the most important cause of the civil war in Lebanon in 1975.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+22M.3op1.HL.TZ0.32:
+<a href="../questions/880685.html">Evaluate the impact of emigration on two African countries.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.16:
+<a href="../questions/880628.html">Examine the impact of King Leopold II’s activities in the Congo.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.7:
+<a href="../questions/381903.html"><p>Evaluate the causes and consequences of Safavid contest [competition] with the Ottomans.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.21:
+<a href="../questions/381966.html">“Trade unions played a significant role in the achievement of independence in Kenya.” To what...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.13:
+<a href="../questions/381942.html">Evaluate the importance of plantation agriculture to the expansion of the Atlantic slave trade.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.22:
+<a href="../questions/381968.html"><p>Compare and contrast the contribution of nationalist movements to the achievement of independence in Senegal and Tanganyika.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.28:
+<a href="../questions/381980.html"><p>Evaluate the success of the Southern African Development Coordination Conference (SADCC) <strong>and</strong> the Southern African Development Community (SADC).</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.3:
+<a href="../questions/381896.html">Evaluate the impact of Fatimid ideology on religious relations with Muslims, Coptic Christians...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.4:
+<a href="../questions/381897.html"><p>Evaluate the effectiveness of the military reforms of <strong>two</strong> of the following: al-Mu’izz (953–975); al-Hakim (996–1021); al-Mustansir (1036–1094).</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.6:
+<a href="../questions/381902.html"><p>Evaluate the consequences of the Fourth Crusade (1202–1204).</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.31:
+<a href="../questions/381984.html">Discuss the changing role of women in two African countries.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.34:
+<a href="../questions/381987.html">Evaluate the effects of the 1979 Revolution in Iran.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.2:
+<a href="../questions/381894.html">“The Sassanian heritage had a significant cultural and political impact on the ‘Abassid dynasty.”...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.10:
+<a href="../questions/381933.html">“Islam was a key factor in the rise of the Mali Empire.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.24:
+<a href="../questions/381973.html"><p>Discuss the impact of the Balkan Wars (1912 and 1913) on the Ottoman Empire.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.1:
+<a href="../questions/381889.html">To what extent did military power play a role in the ‘Abassid rise to power?</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.16:
+<a href="../questions/381946.html">Evaluate the importance of African military, technological and administrative weaknesses to the...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.14:
+<a href="../questions/381944.html">To what extent did missionary activities contribute to the decline of the East African slave trade?</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.32:
+<a href="../questions/381985.html">Examine the impact of colonialism on education in two African countries.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.5:
+<a href="../questions/381901.html">Evaluate the importance of the theory and practice of jihad during the Crusades.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.11:
+<a href="../questions/381935.html">“Social factors were the most significant cause of the rise of the Zulu kingdom.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.15:
+<a href="../questions/381945.html">“The response of other European powers to British actions in Egypt and South Africa was the main...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.18:
+<a href="../questions/381958.html">“African leaders collaborated with the colonial powers because they had no alternative.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.19:
+<a href="../questions/381962.html">Compare and contrast the nature of colonial rule in one British colony and one Portuguese colony.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.17:
+<a href="../questions/381950.html"><p>With reference to the Asante wars (1873, 1896, 1900), evaluate the reasons for Asante resistance and British intervention.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.12:
+<a href="../questions/381939.html">Examine the role of Nana and Jaja in the rise of the Niger Delta trading states.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.29:
+<a href="../questions/381981.html"><p>“The Boers’ attainment of political power was the main consequence of the South African War (1899–1902).” Discuss.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.9:
+<a href="../questions/381926.html">Evaluate the impact of trans-Saharan trade on the decline of African empires.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.20:
+<a href="../questions/381964.html">Discuss the social and political developments that took place in the Gold Coast to 1957.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.36:
+<a href="../questions/381989.html">Evaluate two African states’ return to multi-party democracy in the 1980s and 1990s.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.23:
+<a href="../questions/381971.html">“The Tanzimat reforms did not modernize the Ottoman Empire.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.25:
+<a href="../questions/381974.html"><p>Discuss the effects of Allied diplomacy <strong>and</strong> the Paris peace treaties on the Middle East to 1923.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.8:
+<a href="../questions/381917.html"><p>Evaluate the importance to the evolution of Ottoman administration of <strong>two</strong> of the following: Mehmet II (1451–1481); Selim I (1512–1520); Suleiman the Magnificent (1520–1566).</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.26:
+<a href="../questions/381975.html">To what extent did economic developments in Palestine contribute to Arab–Jewish tensions?</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.27:
+<a href="../questions/381976.html">Examine the reasons for the failure of the League of Nations to deal with Italian aggression in...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.30:
+<a href="../questions/381983.html">“Mandela played the most significant role in South Africa’s transition to democracy.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.35:
+<a href="../questions/381988.html">Evaluate the importance of personal ambition in the establishment of two single-party states in...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.33:
+<a href="../questions/381986.html">Discuss the successes and failures of the Camp David Accords.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.22:
+<a href="../questions/496080.html">Evaluate the role of trade unions in the achievement of independence in Kenya.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.17:
+<a href="../questions/496027.html">“Military strength was the main factor in the decision of African states to resist imperialism.”...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.25:
+<a href="../questions/496083.html">Discuss the importance of the First World War to the nationalist movement in Egypt.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.9:
+<a href="../questions/495938.html">To what extent did changes in trade patterns lead to the decline of the Mali Empire?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.13:
+<a href="../questions/495985.html">Examine the role of technological factors and the growth of maritime commerce in the rise of the...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.24:
+<a href="../questions/496082.html">Discuss the reasons why the Ottoman Empire attempted to introduce internal reform in the 19th...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.32:
+<a href="../questions/496106.html">“Colonialism had a limited impact on African art and culture.” Discuss with reference to two...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.36:
+<a href="../questions/496141.html">“Neo-colonial economic exploitation was the most significant challenge to post-independence...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.16:
+<a href="../questions/496026.html">Discuss the impact of the Berlin West Africa conference on the partition of Africa.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.23:
+<a href="../questions/496081.html">Discuss the reasons for the decline of Ottoman power in the Middle East and North Africa.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.30:
+<a href="../questions/496090.html"><p>Examine the reasons for, and the impact of, township unrest in the 1980s.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.21:
+<a href="../questions/496075.html"><p>Compare and contrast the contributions made by the Popular Movement for the Liberation of Angola (MPLA) and the National Union for the Total Independence of Angola (UNITA) to independence in Angola.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.31:
+<a href="../questions/496104.html">With reference to two African countries, to what extent did colonialism change the role of women?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.2:
+<a href="../questions/495921.html">Evaluate the importance of Harun al-Rashid to the development of science and philosophy during...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.20:
+<a href="../questions/496072.html"><p>Compare and contrast the colonial administrations of Senegal and the Gold Coast.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.29:
+<a href="../questions/496089.html"><p>“The Act of Union (1909) benefitted the Boers more than it did the British.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.34:
+<a href="../questions/496124.html">Discuss the effects of the Iran–Iraq War on Iran.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.1:
+<a href="../questions/495914.html">Discuss the reasons for the fall of the Umayyads.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.12:
+<a href="../questions/495962.html">Evaluate the role of economic factors in the unification and expansion of the Ethiopian state...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.27:
+<a href="../questions/496086.html"><p>Discuss the successes and failures of the East African Community (EAC) (1967–1977).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.3:
+<a href="../questions/495924.html">Discuss the reasons for, and the results of, the Fatimid conquest of Egypt.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.11:
+<a href="../questions/495961.html">“Nana was more successful than Jaja in his response to the intrusions of outsiders.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.5:
+<a href="../questions/495927.html"><p>Discuss the reasons for the failure of the Second Crusade (1145–1149).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.7:
+<a href="../questions/495929.html">Compare and contrast the impact of the foundation of the Ottoman Empire on Europe and Muslim lands.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.35:
+<a href="../questions/496136.html">“Ideology was the main cause of ethnic conflict.” Discuss with reference to two African states.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.8:
+<a href="../questions/495932.html">To what extent did economic weakness lead to the fall of the Mamluks?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.33:
+<a href="../questions/496117.html">Compare and contrast the political developments that occurred in Egypt under the leadership of...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.4:
+<a href="../questions/495926.html">“The decline of the Fatimids was the result of external challenges.” To what extent do you agree...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.10:
+<a href="../questions/495945.html">Examine the role of the Indian Ocean trade in the rise and growth of the Swahili city states.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.19:
+<a href="../questions/496070.html"><p>Discuss the reasons for, and the results of, the Unilateral Declaration of Independence in Southern Rhodesia.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.6:
+<a href="../questions/495928.html"><p>Evaluate the role of Godfrey de Bouillon in the First Crusade (1096–1099) <strong>and</strong> Richard I of England in the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.15:
+<a href="../questions/496005.html">To what extent did chartered companies play an important role in the partition of Africa?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.18:
+<a href="../questions/496059.html">To what extent was Apolo Kagwa’s collaboration with the British beneficial for Buganda?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.14:
+<a href="../questions/495995.html">“Nineteenth century anti-slavery Acts had a limited impact on Africa.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.26:
+<a href="../questions/496084.html">“The Arab–Jewish dispute, up to 1945, was a consequence of British policies.” To what extent do...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.28:
+<a href="../questions/496087.html"><p>“The impact of the Cold War on Africa was positive.” With reference to <strong>two</strong> African countries, to what extent do you agree with this statement?</p></a>
+</li>
+</ul>
+</div>
+<hr>
+<h3>Sub sections and their related questions</h3>
+<h4><a href="3219.html">1: The ‘Abbasid dynasty (750–1258)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.1:
+<a href="../questions/163654.html">With reference to the period up to 900, discuss the consequences of the ‘Abbasid Revolution.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.2:
+<a href="../questions/163655.html">To what extent did rifts and divisions within the ‘Abbasid Empire contribute to its decline?</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.01:
+<a href="../questions/218300.html"><p>Evaluate the view that the ‘Abbasid Revolution was mainly a religious revolution.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.02:
+<a href="../questions/218301.html">To what extent did the ‘Abbasid dynasty draw upon the Sassanian heritage in the organization of...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.1:
+<a href="../questions/261261.html">“While there was significant political development during the first century of ‘Abbasid rule,...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.2:
+<a href="../questions/261262.html">“Al-Ma’mun was an effective ruler.” To what extent do you agree with this statement?</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.1:
+<a href="../questions/335984.html">“The success of ‘Abbasid rule up to 850 was mainly due to political factors.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.2:
+<a href="../questions/335985.html"><p>To what extent was the collapse of the ‘Abbasid dynasty caused by the Mongol invasion?</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.1:
+<a href="../questions/381889.html">To what extent did military power play a role in the ‘Abassid rise to power?</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.2:
+<a href="../questions/381894.html">“The Sassanian heritage had a significant cultural and political impact on the ‘Abassid dynasty.”...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.1:
+<a href="../questions/495914.html">Discuss the reasons for the fall of the Umayyads.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.2:
+<a href="../questions/495921.html">Evaluate the importance of Harun al-Rashid to the development of science and philosophy during...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.1:
+<a href="../questions/636754.html">“Economic development was the most significant aspect of the first century of ‘Abbasid rule.” To...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.2:
+<a href="../questions/636860.html">Examine the role of religion in the maintenance of ‘Abbasid rule.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.1:
+<a href="../questions/696214.html">Evaluate the consequences of the shift of power from Syria to Iraq.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.2:
+<a href="../questions/696316.html">“The size of the ‘Abbasid Empire was the main reason for its decline.” To what extent do you...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.1:
+<a href="../questions/800905.html">Evaluate the impact of the Sassanians on the ‘Abbasid dynasty.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.2:
+<a href="../questions/800908.html">To what extent can Harun al-Rashid be considered a successful ruler?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.1:
+<a href="../questions/880581.html">Evaluate the impact of Harun al-Rashid on the ‘Abbasid Empire.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.2:
+<a href="../questions/880587.html">To what extent did religious divisions cause the decline of the ‘Abbasid Empire?</a>
+</li>
+</ul>
+<h4><a href="3220.html">2: The Fatimids (909–1171)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.3:
+<a href="../questions/163658.html">Evaluate the importance of economic and social factors in the rise to power of the Fatimids.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.4:
+<a href="../questions/163659.html"><p>“Institutions of learning (Dar al-‘Ilm) were more significant than government institutions during the height of the Fatimid Empire.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.03:
+<a href="../questions/218302.html"><p>Discuss the impact of the foundation of Cairo (969) on political <strong>and</strong> social developments in the Fatimid Empire.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.04:
+<a href="../questions/218304.html"><p>Evaluate the impact on the Fatimid Empire of <strong>either</strong> al-Hakim (996–1021)<strong> or</strong> al-Mustansir (1036–1094).</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.3:
+<a href="../questions/261263.html">“The Fatimids had a significant impact on the development of trade during the period from 909 to...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.4:
+<a href="../questions/261265.html"><p>Discuss the reasons for the decline of the Fatimids.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.3:
+<a href="../questions/335987.html">Evaluate the role of political and economic factors in the foundation of the Fatimid dynasty.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.4:
+<a href="../questions/335989.html">“Fatimid claims to the caliphate were weaker than those of the ‘Abbasids and of the Umayyads of...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.3:
+<a href="../questions/381896.html">Evaluate the impact of Fatimid ideology on religious relations with Muslims, Coptic Christians...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.4:
+<a href="../questions/381897.html"><p>Evaluate the effectiveness of the military reforms of <strong>two</strong> of the following: al-Mu’izz (953–975); al-Hakim (996–1021); al-Mustansir (1036–1094).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.3:
+<a href="../questions/495924.html">Discuss the reasons for, and the results of, the Fatimid conquest of Egypt.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.4:
+<a href="../questions/495926.html">“The decline of the Fatimids was the result of external challenges.” To what extent do you agree...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.3:
+<a href="../questions/636862.html">To what extent did divisions within the Fatimid Empire weaken their claim to the caliphate?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.4:
+<a href="../questions/636863.html"><p>Evaluate the importance of institutions of learning (Dar al-’Ilm) in supporting Fatimid power.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.3:
+<a href="../questions/696321.html">“The Fatimids had little impact on the Muslim world.” To what extent do you agree with this...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.4:
+<a href="../questions/696324.html">“The policy of religious toleration was responsible for the strength of the Fatimid Empire.”...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.3:
+<a href="../questions/800936.html">“The impact of the Fatimid conquest of Egypt was mainly economic.” Discuss.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.4:
+<a href="../questions/800945.html">Examine the contribution of religious relations to the maintenance of power of the Fatimid Empire.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.3:
+<a href="../questions/880591.html">“Economic factors were more important than social factors to the foundation of the Fatimid...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.4:
+<a href="../questions/880592.html">“Fatimid ideology had limited impact on the Muslim world.” To what extent do you agree with this...</a>
+</li>
+</ul>
+<h4><a href="3221.html">3: The Crusades (1095–1291)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.5:
+<a href="../questions/163660.html">Discuss the reasons why the crusading movement failed to repeat the success of the First Crusade.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.6:
+<a href="../questions/163661.html"><p>“Weapons rather than tactics determined the outcome of the Crusades.” Discuss with reference to <strong>two</strong> of: the First Crusade (1096–1099); the Second Crusade (1145–1149); the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.05:
+<a href="../questions/218305.html"><p>“The First Crusade (1096–1099) was motivated by religious rather than secular concerns.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.06:
+<a href="../questions/218307.html"><p>Compare and contrast the tactics used by both sides during the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.5:
+<a href="../questions/261267.html">“Religion was the main reason for the foundation of the crusader states.” To what extent do you...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.6:
+<a href="../questions/261269.html"><p>“Salah al-Din (Saladin) made the most significant contribution to Muslim success during the period of the Crusades.” Discuss.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.5:
+<a href="../questions/335990.html">Discuss the reasons for the collapse of the Crusader states.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.6:
+<a href="../questions/335991.html"><p>Discuss the impact of the Crusades on the Byzantine Empire.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.5:
+<a href="../questions/381901.html">Evaluate the importance of the theory and practice of jihad during the Crusades.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.6:
+<a href="../questions/381902.html"><p>Evaluate the consequences of the Fourth Crusade (1202–1204).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.5:
+<a href="../questions/495927.html"><p>Discuss the reasons for the failure of the Second Crusade (1145–1149).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.6:
+<a href="../questions/495928.html"><p>Evaluate the role of Godfrey de Bouillon in the First Crusade (1096–1099) <strong>and</strong> Richard I of England in the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.5:
+<a href="../questions/636864.html">Discuss the importance of secular motives for those who participated in the Crusades.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.6:
+<a href="../questions/636865.html">To what extent was Muslim success during the Crusades the result of their weapons and tactics?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.5:
+<a href="../questions/696326.html"><p>Evaluate the importance of leadership in determining the outcome of the Third Crusade (1189–1192).</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.6:
+<a href="../questions/696327.html">“The Crusades had a negative impact on the Middle East.” To what extent do you agree with this...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.5:
+<a href="../questions/800948.html"><p>Evaluate the reasons for the success of the First Crusade (1096–1099).</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.6:
+<a href="../questions/800949.html">Evaluate the impact of the Hospitallers and Templars on the Crusades.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.5:
+<a href="../questions/880595.html">“Religious belief was the main reason for participation in the Crusades.” Discuss.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.6:
+<a href="../questions/880597.html">Evaluate the impact of the Crusades in the Middle East.</a>
+</li>
+</ul>
+<h4><a href="3222.html">4: The Ottomans (1281–1566)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.7:
+<a href="../questions/163662.html">Evaluate the factors that contributed to the Ottoman rise to power.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.8:
+<a href="../questions/163663.html"><p>Evaluate the impact of the foundation of the Ottoman Empire on Europe and Muslim lands.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.07:
+<a href="../questions/218308.html"><p>Evaluate the impact on the Ottoman Empire of contest [competition] with the Safavids.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.08:
+<a href="../questions/218309.html"><p>To what extent did the fall of Constantinople (1453) transform the Ottoman state?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.7:
+<a href="../questions/261271.html">“Administrative efficiency was the major factor in the success of the Ottoman Empire.” Discuss.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.8:
+<a href="../questions/261280.html"><p>To what extent did the fall of Constantinople (1453) transform the Ottoman Empire?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.7:
+<a href="../questions/335992.html"><p>To what extent was the Ottoman expansion into Anatolia and the Balkans achieved through warfare?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.8:
+<a href="../questions/335994.html"><p>Discuss the achievements of <strong>two</strong> of the following Ottoman leaders: Mehmet II (1451–1481); Selim I (1512–1520); Suleiman the Magnificent (1520–1566).</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.7:
+<a href="../questions/381903.html"><p>Evaluate the causes and consequences of Safavid contest [competition] with the Ottomans.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.8:
+<a href="../questions/381917.html"><p>Evaluate the importance to the evolution of Ottoman administration of <strong>two</strong> of the following: Mehmet II (1451–1481); Selim I (1512–1520); Suleiman the Magnificent (1520–1566).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.7:
+<a href="../questions/495929.html">Compare and contrast the impact of the foundation of the Ottoman Empire on Europe and Muslim lands.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.8:
+<a href="../questions/495932.html">To what extent did economic weakness lead to the fall of the Mamluks?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.7:
+<a href="../questions/636866.html">“A lack of opposition was the major reason for the success of Ottoman expansion.” Discuss.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.8:
+<a href="../questions/636867.html">“The Ottoman Empire made limited changes to the Islamic world.” To what extent do you agree with...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.7:
+<a href="../questions/696328.html">Evaluate the reasons for Ottoman success in their struggle with the Safavids.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.8:
+<a href="../questions/696329.html">“The capture of Constantinople transformed the Ottoman state.” To what extent do you agree with...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.7:
+<a href="../questions/800950.html">Evaluate the reasons for the rise of the Ottomans in Anatolia.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.8:
+<a href="../questions/800951.html">Evaluate the contribution of the Ottomans to Islamic culture.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.8:
+<a href="../questions/880600.html">“The desire for wealth was the most important reason for the Ottoman capture of Constantinople.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.7:
+<a href="../questions/880604.html">Discuss the reasons for, and impact of, the Ottoman conquest of Egypt and Syria.</a>
+</li>
+</ul>
+<h4><a href="3223.html">5: Trade and the rise and decline of African states and empires (800–1600)</a></h4>
+<ul>
+<li>
+17M.3op2.HL.TZ0.9:
+<a href="../questions/163664.html">Evaluate the reasons for the rise of the Ghana Empire.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.10:
+<a href="../questions/163665.html">Evaluate the reasons for the decline of the Mali Empire by 1600.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.09:
+<a href="../questions/218310.html">Evaluate the influence of Catholicism in the Kingdom of the Kongo.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.10:
+<a href="../questions/218311.html">Discuss the causes of the rise and decline of the Mali Empire.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.9:
+<a href="../questions/261283.html">Evaluate the role of trade in the Islamization of East and West Africa.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.10:
+<a href="../questions/261284.html"><p>Evaluate the reasons for the rise and expansion of the Kingdom of the Kongo to 1600.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.9:
+<a href="../questions/335995.html">Evaluate the importance of the trans-Saharan trade in gold and salt to the rise of the Ghana Empire.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.10:
+<a href="../questions/335996.html">Discuss the factors that contributed to the emergence of a cosmopolitan Swahili culture.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.9:
+<a href="../questions/381926.html">Evaluate the impact of trans-Saharan trade on the decline of African empires.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.10:
+<a href="../questions/381933.html">“Islam was a key factor in the rise of the Mali Empire.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.9:
+<a href="../questions/495938.html">To what extent did changes in trade patterns lead to the decline of the Mali Empire?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.10:
+<a href="../questions/495945.html">Examine the role of the Indian Ocean trade in the rise and growth of the Swahili city states.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.9:
+<a href="../questions/636868.html">“Trade was more important than the influence of Catholicism to the rise and expansion of the...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.10:
+<a href="../questions/636869.html">Examine the role of systems of government in the rise and decline of the Ghana Empire.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.9:
+<a href="../questions/696333.html">To what extent was the Almoravid jihad responsible for the fall of the Ghana Empire?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.10:
+<a href="../questions/696334.html">Discuss the importance of the Indian Ocean trade in the rise and growth of the Swahili city states.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.9:
+<a href="../questions/800952.html">Examine the significance of trade routes to the rise and decline of the Ghana Empire.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.10:
+<a href="../questions/800956.html">“The most important factor in the rise of the Mali Empire was its military organization.” To what...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.9:
+<a href="../questions/880610.html">Evaluate the importance of trans-Saharan trade in gold and salt to African states.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.10:
+<a href="../questions/880613.html">“Political organization was the main factor in the rise and expansion of the Kingdom of Kongo.”...</a>
+</li>
+</ul>
+<h4><a href="3224.html">6: Pre-colonial African states (1800–1900)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.11:
+<a href="../questions/163666.html">Discuss the factors that contributed to the rise of the Zulu Kindgom.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.12:
+<a href="../questions/163667.html">Discuss the reasons for the rise of the Mahdist state in Sudan.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.11:
+<a href="../questions/218315.html">“The social effects of the rise of the Sokoto Caliphate were more significant than the political...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.12:
+<a href="../questions/218321.html">“The role of religion in the rise of the Mahdist state in Sudan has been greatly exaggerated.”...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.11:
+<a href="../questions/261285.html">Discuss the reasons for the rise of the Sokoto Caliphate.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.12:
+<a href="../questions/261288.html">Evaluate the role of political organization in the rise of two of the following: the Mandinka...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.11:
+<a href="../questions/335997.html">Evaluate the effects of the Mfecane/Difaqane.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.12:
+<a href="../questions/336001.html">Examine the roles of Yohannes IV and Menelik II in the unification and expansion of Ethiopia.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.11:
+<a href="../questions/381935.html">“Social factors were the most significant cause of the rise of the Zulu kingdom.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.12:
+<a href="../questions/381939.html">Examine the role of Nana and Jaja in the rise of the Niger Delta trading states.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.11:
+<a href="../questions/495961.html">“Nana was more successful than Jaja in his response to the intrusions of outsiders.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.12:
+<a href="../questions/495962.html">Evaluate the role of economic factors in the unification and expansion of the Ethiopian state...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.11:
+<a href="../questions/636886.html"><p>Discuss the social, economic and political causes of the Mfecane/Difaqane.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.12:
+<a href="../questions/636887.html">Discuss the main reasons for the rise of two of the following: the Mandinka Empire under Samori...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.11:
+<a href="../questions/696338.html">“Trade played the most important role in the rise of the Niger Delta trading states.” To what...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.12:
+<a href="../questions/696341.html">Examine the importance of leadership to the rise of two of the following: the Mandinka empire...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.11:
+<a href="../questions/800957.html">Evaluate the importance of social and political organization to the rise of the Sotho.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.12:
+<a href="../questions/800963.html">“The main effect of the rise of the Sokoto Caliphate was economic change.” To what extent do you...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.11:
+<a href="../questions/880617.html">Compare and contrast the rise of the Zulu under Shaka and the Sotho under Moshoeshoe.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.12:
+<a href="../questions/880618.html">Evaluate the contributions of both Tewodros II and Yohannes IV to the unification of Ethiopia.</a>
+</li>
+</ul>
+<h4><a href="3225.html">7: The slave trade in Africa and the Middle East (1500–1900)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.13:
+<a href="../questions/163668.html">“The expansion of the East African slave trade was simply an extension of existing practices.”...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.14:
+<a href="../questions/163669.html">Examine the impact of anti-slavery legislation in the 19th century.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.13:
+<a href="../questions/218322.html">“Rivalries and warfare between African states were the main causes of the expansion of the...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.14:
+<a href="../questions/218323.html">Evaluate the significance of colonial expansion to the decline of the East African slave trade.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.13:
+<a href="../questions/261289.html">Discuss the reasons for the expansion of the East African slave trade from the late 18th century.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.14:
+<a href="../questions/261290.html"><p>“The abolitionist movement was the major factor in the decline of the Atlantic Slave trade.” Discuss.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.13:
+<a href="../questions/336006.html">Discuss the role of two individuals in the slave trade in Africa.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.14:
+<a href="../questions/336007.html">Evaluate the reasons for the decline of slavery in the Ottoman Empire.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.13:
+<a href="../questions/381942.html">Evaluate the importance of plantation agriculture to the expansion of the Atlantic slave trade.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.14:
+<a href="../questions/381944.html">To what extent did missionary activities contribute to the decline of the East African slave trade?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.13:
+<a href="../questions/495985.html">Examine the role of technological factors and the growth of maritime commerce in the rise of the...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.14:
+<a href="../questions/495995.html">“Nineteenth century anti-slavery Acts had a limited impact on Africa.” Discuss.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.13:
+<a href="../questions/636888.html">“The most important reasons for the expansion of the Atlantic slave trade were rivalries and...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.14:
+<a href="../questions/636889.html">To what extent was colonial expansion the main factor in the decline of the East African slave...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.13:
+<a href="../questions/696344.html">“The most important impact of the slave trade in Africa was economic.” To what extent do you...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.14:
+<a href="../questions/696346.html">Evaluate the role of colonial expansion in the decline of the East African slave trade in the...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.13:
+<a href="../questions/800964.html">“The growth of the Atlantic slave trade was mainly an extension of existing practices of slavery...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.14:
+<a href="../questions/800965.html">Evaluate the role of humanitarian factors in the decline of the East African slave trade.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.13:
+<a href="../questions/880620.html">Evaluate the economic and social impact of the Atlantic slave trade in Africa.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.14:
+<a href="../questions/880623.html">To what extent did the 1807 Slave Trade Act impact the slave trade in Africa?</a>
+</li>
+</ul>
+<h4><a href="3226.html">8: European imperialism and the partition of Africa (1850–1900)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.15:
+<a href="../questions/163670.html">“Economic weaknesses in Europe were the main cause of the partition of Africa.” Discuss.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.16:
+<a href="../questions/163673.html">Evaluate the impact of Leopold II and De Brazza in the Congo region.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.15:
+<a href="../questions/218324.html">Evaluate the impact of British actions in Egypt and South Africa on the partition of Africa.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.16:
+<a href="../questions/218325.html">Evaluate the factors that facilitated German annexation in Africa.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.15:
+<a href="../questions/261291.html"><p>To what extent was the decline of the Ottoman Empire the most significant reason for the growth of European activity in Africa?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.16:
+<a href="../questions/261292.html">“The search for new markets was the main economic cause of the partition of Africa.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.15:
+<a href="../questions/336008.html">To what extent was the partition of Africa caused by British concerns over control of the sea...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.16:
+<a href="../questions/336015.html">“The activities of King Leopold II of Belgium in the Congo were a more important factor in...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.15:
+<a href="../questions/381945.html">“The response of other European powers to British actions in Egypt and South Africa was the main...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.16:
+<a href="../questions/381946.html">Evaluate the importance of African military, technological and administrative weaknesses to the...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.15:
+<a href="../questions/496005.html">To what extent did chartered companies play an important role in the partition of Africa?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.16:
+<a href="../questions/496026.html">Discuss the impact of the Berlin West Africa conference on the partition of Africa.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.15:
+<a href="../questions/636890.html">Evaluate the role of national rivalry in the partition of Africa.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.16:
+<a href="../questions/636891.html">Compare and contrast the activities of King Leopold II of Belgium and De Brazza in the Congo region.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.15:
+<a href="../questions/696347.html">“African political and cultural disunity was the main reason for partition.” To what extent do...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.16:
+<a href="../questions/696350.html">Evaluate the impact of the Berlin West Africa Conference on the partition of Africa.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.15:
+<a href="../questions/800971.html">“Strategic factors were the most important reasons for the partition of Africa.” Discuss.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.16:
+<a href="../questions/800973.html">“The Berlin West Africa Conference had little impact on the partition of Africa.” To what extent...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.15:
+<a href="../questions/880625.html">To what extent was European national rivalry the main cause of the partition of Africa?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.16:
+<a href="../questions/880628.html">Examine the impact of King Leopold II’s activities in the Congo.</a>
+</li>
+</ul>
+<h4><a href="3227.html">9: Response to European imperialism (1870–1920)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.17:
+<a href="../questions/163674.html">Evaluate Mandinka resistance to French rule.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.18:
+<a href="../questions/163675.html">“The advantages of collaboration with colonial powers outweighed the disadvantages.” To what...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.17:
+<a href="../questions/218326.html">Evaluate the factors that influenced African decisions to resist European imperialism.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.18:
+<a href="../questions/218327.html">“The conquest and destruction of the Zulu kingdom was mainly a consequence of Cetshwayo’s poor...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.17:
+<a href="../questions/261293.html"><p>“Economic discontent was the major factor that led to Mandinka resistance to French rule.” Discuss.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.18:
+<a href="../questions/261295.html">Evaluate the reasons for the failure of Herero and Nama resistance in Namibia.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.17:
+<a href="../questions/336023.html">Compare and contrast the responses of the Mandinka and the Zulu to challenges to their independence.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.18:
+<a href="../questions/336024.html">Discuss the reasons why Lewanika and Khama decided to collaborate with the British.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.17:
+<a href="../questions/381950.html"><p>With reference to the Asante wars (1873, 1896, 1900), evaluate the reasons for Asante resistance and British intervention.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.18:
+<a href="../questions/381958.html">“African leaders collaborated with the colonial powers because they had no alternative.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.17:
+<a href="../questions/496027.html">“Military strength was the main factor in the decision of African states to resist imperialism.”...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.18:
+<a href="../questions/496059.html">To what extent was Apolo Kagwa’s collaboration with the British beneficial for Buganda?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.17:
+<a href="../questions/636892.html">Examine the results of Menelik II’s resistance to European imperialism in Ethiopia.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.18:
+<a href="../questions/636893.html">“Collaboration with the British was mainly influenced by the prospect of political gain.” Discuss...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.17:
+<a href="../questions/696351.html">To what extent was Cetshwayo responsible for the conquest and destruction of the Zulu kingdom?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.18:
+<a href="../questions/696352.html">Discuss the reasons for resistance and collaboration with the colonial power in Buganda.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.17:
+<a href="../questions/800976.html">“Strong African states resisted imperialism while weaker states collaborated.” To what extent do...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.18:
+<a href="../questions/800977.html"><p>“The most important reasons for British intervention in the Asante Wars (1873, 1896, 1900) were economic.” Discuss.</p></a>
+</li>
+<li>
+22M.3op1.HL.TZ0.17:
+<a href="../questions/880633.html">“The brutality of the colonizing powers was the main reason for resistance by African states.”...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.18:
+<a href="../questions/880635.html">“African pragmatism was the most important factor in the decision to collaborate with European...</a>
+</li>
+</ul>
+<h4><a href="3228.html">10: Africa under colonialism (1890–1980)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.19:
+<a href="../questions/163676.html">Evaluate the factors that contributed to the creation of the Central African Federation.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.20:
+<a href="../questions/163677.html">Discuss social and economic development in Nigeria under the British.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.19:
+<a href="../questions/218328.html"><p>Evaluate the main features of British rule in Tanganyika.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.20:
+<a href="../questions/218329.html">Evaluate the economic development of the Gold Coast up to 1957.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.19:
+<a href="../questions/261296.html">Evaluate the economic and social impact of British rule in Kenya to 1963.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.20:
+<a href="../questions/261297.html"><p>Discuss the strengths <strong>and </strong>weaknesses of the colonial administration of Senegal to 1960.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.19:
+<a href="../questions/336025.html">“The impact of Portuguese rule in Angola and Mozambique was entirely negative.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.20:
+<a href="../questions/336026.html">Evaluate the factors that promoted the choice of administrative systems in Nigeria.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.19:
+<a href="../questions/381962.html">Compare and contrast the nature of colonial rule in one British colony and one Portuguese colony.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.20:
+<a href="../questions/381964.html">Discuss the social and political developments that took place in the Gold Coast to 1957.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.19:
+<a href="../questions/496070.html"><p>Discuss the reasons for, and the results of, the Unilateral Declaration of Independence in Southern Rhodesia.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.20:
+<a href="../questions/496072.html"><p>Compare and contrast the colonial administrations of Senegal and the Gold Coast.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.19:
+<a href="../questions/636895.html">Compare and contrast the impact of German and British rule in Tanganyika.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.20:
+<a href="../questions/636896.html">“Regional differences were the main factor in shaping political developments in Nigeria during...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.19:
+<a href="../questions/696354.html">Compare and contrast German and British rule in Tanganyika to 1961.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.20:
+<a href="../questions/696357.html">Examine the contribution of constitutional developments to the independence of Nigeria to 1960.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.19:
+<a href="../questions/800978.html">Compare and contrast the impact of settlers in one British colony and one Portuguese colony.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.20:
+<a href="../questions/800980.html">“The impact of colonial administration was entirely negative for the Senegalese.” Discuss.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.19:
+<a href="../questions/880638.html">Evaluate the economic and social developments in Angola under Portuguese rule to 1975.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.20:
+<a href="../questions/880640.html">“British policies were responsible for the creation of regional rivalries in Nigeria up to 1960.”...</a>
+</li>
+</ul>
+<h4><a href="3299.html">11: 20th-century nationalist and independence movements in Africa</a></h4>
+<ul>
+<li>
+17M.3op2.HL.TZ0.21:
+<a href="../questions/163678.html"><p>Examine the role played by the South West Africa People’s Organisation (SWAPO) in the achievement of Namibian independence.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.22:
+<a href="../questions/163679.html">Evaluate Nkrumah’s contribution to Ghana’s achievement of independence.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.21:
+<a href="../questions/218330.html"><p>Compare and contrast the role of the Kenya African National Union (KANU) and the Tanganyika African National Union (TANU) in the achievement of independence in Kenya and Tanganyika respectively.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.22:
+<a href="../questions/218331.html">“Nationalist movements were the main factor in the achievement of independence in French West...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.21:
+<a href="../questions/261299.html">Evaluate the role of nationalist movements in the achievement of independence in Angola.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.22:
+<a href="../questions/261300.html"><p>To what extent did the Tanganyika African National Union (TANU) contribute to Tanganyika’s achievement of independence?</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.21:
+<a href="../questions/336027.html">Evaluate the factors that contributed to Senegalese independence to 1960.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.22:
+<a href="../questions/336028.html"><p>Evaluate the importance of Julius Nyerere in the achievement of Tanganyikan independence up to 1961.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.21:
+<a href="../questions/381966.html">“Trade unions played a significant role in the achievement of independence in Kenya.” To what...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.22:
+<a href="../questions/381968.html"><p>Compare and contrast the contribution of nationalist movements to the achievement of independence in Senegal and Tanganyika.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.21:
+<a href="../questions/496075.html"><p>Compare and contrast the contributions made by the Popular Movement for the Liberation of Angola (MPLA) and the National Union for the Total Independence of Angola (UNITA) to independence in Angola.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.22:
+<a href="../questions/496080.html">Evaluate the role of trade unions in the achievement of independence in Kenya.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.21:
+<a href="../questions/636898.html">Compare and contrast the factors that led to the independence of Angola and South-West Africa.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.22:
+<a href="../questions/636899.html">Evaluate the contributions of internal and external factors in the achievement of independence in...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.21:
+<a href="../questions/696360.html"><p>“The actions of the South West Africa People’s Organization (SWAPO) were the most important factor in Namibia becoming independent.” Discuss.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.22:
+<a href="../questions/696363.html">To what extent were political parties responsible for the independence of Senegal in 1960?</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.21:
+<a href="../questions/800984.html"><p>Compare and contrast how independence was achieved in Tanganyika and South-West Africa.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.22:
+<a href="../questions/800988.html"><p>Evaluate the contribution of political parties to the achievement of independence in French West Africa.</p></a>
+</li>
+<li>
+22M.3op1.HL.TZ0.21:
+<a href="../questions/880642.html">“The Mau Mau uprising had little impact on the struggle for Kenyan independence.” Discuss.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.22:
+<a href="../questions/880644.html">To what extent was nationalism the main factor in Senegal becoming independent?</a>
+</li>
+</ul>
+<h4><a href="3300.html">12: The Ottoman Empire (c1800–1923)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.23:
+<a href="../questions/163680.html">“The actions of the major powers were the most significant factor in Greece gaining independence...</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.24:
+<a href="../questions/163681.html">Evaluate the impact of the First World War on the Ottoman Empire.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.23:
+<a href="../questions/218332.html"><p>Evaluate the challenges to Ottoman power during the first half of the 19th century.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.24:
+<a href="../questions/218333.html">“The decline of Ottoman power was the main reason for the Ottoman Empire’s entry into the First...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.23:
+<a href="../questions/261302.html"><p>Discuss the impact of the Crimean War on the Ottoman Empire.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.24:
+<a href="../questions/261303.html"><p>Evaluate the reasons for the entry of the Ottoman Empire into the First World War.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.23:
+<a href="../questions/336029.html"><p>Evaluate the reasons for, and the results of, Muhammad Ali’s challenge to Ottoman power.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.24:
+<a href="../questions/336031.html"><p>Evaluate the impact of the Committee of Union and Progress on the Ottoman Empire.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.23:
+<a href="../questions/381971.html">“The Tanzimat reforms did not modernize the Ottoman Empire.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.24:
+<a href="../questions/381973.html"><p>Discuss the impact of the Balkan Wars (1912 and 1913) on the Ottoman Empire.</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.23:
+<a href="../questions/496081.html">Discuss the reasons for the decline of Ottoman power in the Middle East and North Africa.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.24:
+<a href="../questions/496082.html">Discuss the reasons why the Ottoman Empire attempted to introduce internal reform in the 19th...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.23:
+<a href="../questions/636900.html">To what extent can Abdul Hamid be considered a reformer?</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.24:
+<a href="../questions/636901.html">Evaluate the impact of the First World War on the Ottoman Empire up to 1923.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.23:
+<a href="../questions/696364.html">“The rise of nationalism was the main challenge to Ottoman power up to 1840.” To what extent do...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.24:
+<a href="../questions/696368.html">Evaluate the reasons for the failure of the Young Turks to reform the Ottoman Empire after 1908.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.23:
+<a href="../questions/800991.html">“Rising nationalism was the main reason for the decline of the Ottoman Empire in the early 19th...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.24:
+<a href="../questions/800993.html">To what extent was fear of Russian expansion the main reason for Ottoman entry into the First...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.23:
+<a href="../questions/880646.html">Discuss the causes of the Greek War of Independence and its impact on the Ottoman Empire.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.24:
+<a href="../questions/880648.html">Evaluate the impact of the reforms implemented by the Young Turks.</a>
+</li>
+</ul>
+<h4><a href="3301.html">13: War and change in the Middle East and North Africa 1914–1945</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.25:
+<a href="../questions/163682.html">“The Paris peace treaties created more conflict than peace in the Middle East.” Discuss.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.26:
+<a href="../questions/163683.html">Examine the impact of the First World War on the movement for Egyptian independence.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.25:
+<a href="../questions/218334.html"><p>“Allied diplomacy in the Middle East was motivated by self-interest.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.26:
+<a href="../questions/218336.html">Evaluate the success of Ataturk’s rule in the Turkish Republic up to 1938.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.25:
+<a href="../questions/261305.html">“The Arab Revolt had little impact on the territorial settlement in the Middle East after the...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.26:
+<a href="../questions/261306.html"><p>Evaluate the attempts at modernization in Iran <strong>or </strong>Saudi Arabia <strong>or one </strong>North African state.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.25:
+<a href="../questions/336032.html"><p>Evaluate the impact of French administration in Syria and Lebanon.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.26:
+<a href="../questions/336034.html"><p>With reference to the period between 1914 and 1945, evaluate political <strong>and</strong> social developments in <strong>one</strong> of the following: Iran; Saudi Arabia; a North African state.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.25:
+<a href="../questions/381974.html"><p>Discuss the effects of Allied diplomacy <strong>and</strong> the Paris peace treaties on the Middle East to 1923.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.26:
+<a href="../questions/381975.html">To what extent did economic developments in Palestine contribute to Arab–Jewish tensions?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.25:
+<a href="../questions/496083.html">Discuss the importance of the First World War to the nationalist movement in Egypt.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.26:
+<a href="../questions/496084.html">“The Arab–Jewish dispute, up to 1945, was a consequence of British policies.” To what extent do...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.25:
+<a href="../questions/636903.html">Evaluate British administration in Iraq and Transjordan.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.26:
+<a href="../questions/636905.html">“Jewish immigration to Palestine was the main cause of Arab-Jewish tensions up to 1939.” Discuss.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.25:
+<a href="../questions/696369.html">“The Declaration of Independence reduced British influence in Egypt after 1922.” Discuss.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.26:
+<a href="../questions/696370.html">“Ataturk was successful in achieving his aims.” To what extent do you agree with this statement?</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.25:
+<a href="../questions/800994.html">Examine the reasons for, and the results of, the mandate system in Syria and Lebanon.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.26:
+<a href="../questions/801003.html">To what extent were attempts at modernization in Iran or Saudi Arabia or one North African state...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.25:
+<a href="../questions/880650.html">“The First World War was the most important reason for the growth of the nationalist movement in...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.26:
+<a href="../questions/880657.html">“Western influences had a significant impact on economic and social developments.” Discuss with...</a>
+</li>
+</ul>
+<h4><a href="3302.html">14: Africa, international organizations and the international community (20th century)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.27:
+<a href="../questions/163684.html"><p>Examine the impact of the Organisation of African Unity (OAU) and the African Union (AU) up to 2000.</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.28:
+<a href="../questions/163685.html"><p>Compare and contrast the results of United Nations (UN) intervention in Congo and Mozambique.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.27:
+<a href="../questions/218337.html"><p>“The failure of the League of Nations to deal with Italian aggression had more significant consequences for Abyssinia [Ethiopia] than it did for the League.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.28:
+<a href="../questions/218338.html"><p>Evaluate the reasons why the United Nations (UN) failed in Rwanda.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.27:
+<a href="../questions/261307.html"><p>Discuss the reasons for the formation <strong>and </strong>the collapse of the East African Community (EAC) (1967–1977).</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.28:
+<a href="../questions/261309.html">Evaluate the impact of the Cold War on two African countries.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.27:
+<a href="../questions/336035.html">Discuss the reasons for the failure of UN intervention in Somalia up to 1995.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.28:
+<a href="../questions/336036.html">Evaluate the impact of two UN specialized agencies in Africa.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.27:
+<a href="../questions/381976.html">Examine the reasons for the failure of the League of Nations to deal with Italian aggression in...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.28:
+<a href="../questions/381980.html"><p>Evaluate the success of the Southern African Development Coordination Conference (SADCC) <strong>and</strong> the Southern African Development Community (SADC).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.27:
+<a href="../questions/496086.html"><p>Discuss the successes and failures of the East African Community (EAC) (1967–1977).</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.28:
+<a href="../questions/496087.html"><p>“The impact of the Cold War on Africa was positive.” With reference to <strong>two</strong> African countries, to what extent do you agree with this statement?</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.27:
+<a href="../questions/636906.html"><p>Examine the reasons for the successes <strong>and</strong> failures of the Economic Community of West African States (ECOWAS).</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.28:
+<a href="../questions/636907.html"><p>“United Nations intervention was a complete failure.” Discuss with reference to <strong>two</strong> of the following: Congo, Mozambique, Somalia, Rwanda.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.27:
+<a href="../questions/696371.html"><p>“The Organization of African Unity (OAU) failed to achieve its objectives.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.28:
+<a href="../questions/696374.html">“The UN was successful in its interventions in Africa.” Discuss with reference to two of the...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.27:
+<a href="../questions/801004.html"><p>“The Economic Community of West African States (ECOWAS) was more successful than the Southern African Development Coordination Conference (SADCC).” Discuss.</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.28:
+<a href="../questions/801006.html">Examine the consequences of siding with the United States or the Soviet Union for two African...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.27:
+<a href="../questions/880659.html"><p>Evaluate the effectiveness of the Organization of African Unity (OAU) in achieving its objectives.</p></a>
+</li>
+<li>
+22M.3op1.HL.TZ0.28:
+<a href="../questions/880660.html">“UN specialized agencies had a limited impact in Africa.” Discuss with reference to two agencies.</a>
+</li>
+</ul>
+<h4><a href="3303.html">15: Developments in South Africa 1880–1994</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.29:
+<a href="../questions/163686.html"><p>Evaluate the causes of the South African War (1899–1902).</p></a>
+</li>
+<li>
+17M.3op1.HL.TZ0.30:
+<a href="../questions/163687.html">Evaluate the importance of international opposition to apartheid.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.29:
+<a href="../questions/218339.html"><p>“The British won the South African War (1899–1902) but the Boers won the post-war peace.” Discuss.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.30:
+<a href="../questions/218341.html"><p>Evaluate the reasons why the African National Congress (ANC) adopted armed struggle.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.29:
+<a href="../questions/261312.html">To what extent did economic issues cause the South African War?</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.30:
+<a href="../questions/261314.html">Discuss the reasons why policy in South Africa changed from segregation to apartheid in 1948. </a>
+</li>
+<li>
+18N.3op1.HL.TZ0.29:
+<a href="../questions/336037.html"><p>Discuss the impact of the policy of segregation between 1910 and 1948.</p></a>
+</li>
+<li>
+18N.3op1.HL.TZ0.30:
+<a href="../questions/336038.html">Evaluate the importance of Sharpeville to the struggle against apartheid.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.29:
+<a href="../questions/381981.html"><p>“The Boers’ attainment of political power was the main consequence of the South African War (1899–1902).” Discuss.</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.30:
+<a href="../questions/381983.html">“Mandela played the most significant role in South Africa’s transition to democracy.” Discuss.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.29:
+<a href="../questions/496089.html"><p>“The Act of Union (1909) benefitted the Boers more than it did the British.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+19N.3op1.HL.TZ0.30:
+<a href="../questions/496090.html"><p>Examine the reasons for, and the impact of, township unrest in the 1980s.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.29:
+<a href="../questions/636908.html"><p>Evaluate the effectiveness of protest against the segregation policies of Smuts and Hertzog (1910–1948).</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.30:
+<a href="../questions/636909.html"><p>“De Klerk’s actions had limited impact on the end of the apartheid system.” To what extent do you agree with this statement?</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.29:
+<a href="../questions/696376.html">Evaluate the impact of the segregation policies of Smuts and Hertzog between 1910 and 1948.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.30:
+<a href="../questions/696378.html">Evaluate the contribution of the Black Consciousness movement to resisting apartheid.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.29:
+<a href="../questions/801022.html">Compare and contrast the nature of segregation and apartheid policies.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.30:
+<a href="../questions/801041.html">Evaluate the contribution of township unrest in the 1980s to the end of the apartheid system.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.29:
+<a href="../questions/880661.html">Examine the political and economic consequences for the Boers of the discovery of gold.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.30:
+<a href="../questions/880665.html">“International opposition was the most important reason for the collapse of apartheid.” To what...</a>
+</li>
+</ul>
+<h4><a href="3304.html">16: Social and cultural developments in Africa in the 19th and 20th centuries</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.31:
+<a href="../questions/163688.html">Examine the ways in which colonialism changed the role and status of women in Africa.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.32:
+<a href="../questions/163689.html">With reference to two countries, discuss the impact of colonialism on African art and culture.</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.31:
+<a href="../questions/218342.html">“African Independent Churches emerged because colonial rule was unpopular.” To what extent do you...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.32:
+<a href="../questions/218344.html">Evaluate the impact of developments in education in two African countries.</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.31:
+<a href="../questions/261315.html">Evaluate the factors that promoted and inhibited the spread of Islam in Africa in the 19th and...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.32:
+<a href="../questions/261317.html">With reference to two countries, evaluate the social and cultural impact of technological...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.31:
+<a href="../questions/336039.html">Discuss the impact of immigration and emigration in two African countries.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.32:
+<a href="../questions/336040.html">“The impact of colonialism on the role of African women was mostly positive.” Discuss.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.31:
+<a href="../questions/381984.html">Discuss the changing role of women in two African countries.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.32:
+<a href="../questions/381985.html">Examine the impact of colonialism on education in two African countries.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.31:
+<a href="../questions/496104.html">With reference to two African countries, to what extent did colonialism change the role of women?</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.32:
+<a href="../questions/496106.html">“Colonialism had a limited impact on African art and culture.” Discuss with reference to two...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.31:
+<a href="../questions/636910.html">Examine the reasons for the spread of Christianity in Africa in the 19th and 20th centuries.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.32:
+<a href="../questions/636911.html">Compare and contrast the impact of colonialism on cultural values in two African countries.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.31:
+<a href="../questions/696380.html">To what extent did colonialism change social and cultural values in any two African countries?</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.32:
+<a href="../questions/696382.html">With reference to two African countries, examine the view that technological developments had a...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.31:
+<a href="../questions/801042.html">“Anti-colonialism was the most important reason for the creation of the African Independent...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.32:
+<a href="../questions/801048.html">With reference to two African countries, evaluate the impact of technological developments on...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.31:
+<a href="../questions/880672.html">Examine the factors that promoted and limited the spread of Christianity in 19th century Africa.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.32:
+<a href="../questions/880685.html">Evaluate the impact of emigration on two African countries.</a>
+</li>
+</ul>
+<h4><a href="3305.html">17: Post-war developments in the Middle East (1945–2000)</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.33:
+<a href="../questions/163690.html">Examine the reasons for the outcome of the Six Day War and the 1973 War.</a>
+</li>
+<li>
+17M.3op1.HL.TZ0.34:
+<a href="../questions/163691.html">To what extent did Mohammad Reza Shah Pahlavi modernize and westernize Iran?</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.33:
+<a href="../questions/218345.html">“The creation of the state of Israel in 1948 was the result of tensions and instability in...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.34:
+<a href="../questions/218346.html"><p>“The outbreak of civil war in Lebanon in 1975 was mainly caused by outside interference.” Discuss.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.33:
+<a href="../questions/261318.html"><p>To what extent were the political developments <strong>and </strong>economic policies of Nasser successful?</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.34:
+<a href="../questions/261319.html">“The 1979 Revolution in Iran was the result of the policies of Mohammad Reza Shah Pahlavi.” Discuss.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.33:
+<a href="../questions/336041.html">Discuss the effects of the 1948–1949 War on Israel up to 1956.</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.34:
+<a href="../questions/336043.html"><p>To what extent was Nasser responsible for the collapse of the United Arab Republic (UAR)?</p></a>
+</li>
+<li>
+19M.3op1.HL.TZ0.33:
+<a href="../questions/381986.html">Discuss the successes and failures of the Camp David Accords.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.34:
+<a href="../questions/381987.html">Evaluate the effects of the 1979 Revolution in Iran.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.33:
+<a href="../questions/496117.html">Compare and contrast the political developments that occurred in Egypt under the leadership of...</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.34:
+<a href="../questions/496124.html">Discuss the effects of the Iran–Iraq War on Iran.</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.33:
+<a href="../questions/636917.html"><p>Discuss the causes of, and the effects of, the intifadas.</p></a>
+</li>
+<li>
+20N.3op1.HL.TZ0.34:
+<a href="../questions/636918.html">“Economic problems were the main cause of the 1979 Iranian Revolution.” To what extent do you...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.33:
+<a href="../questions/696385.html"><p>With reference to the period between 1945 and 1956, evaluate the causes and effects of the 1948–49 War in the Middle East.</p></a>
+</li>
+<li>
+21M.3op1.HL.TZ0.34:
+<a href="../questions/696386.html"><p>Discuss the reasons for the rise and collapse of the United Arab Republic (UAR).</p></a>
+</li>
+<li>
+21N.3op1.HL.TZ0.33:
+<a href="../questions/801049.html">Evaluate the impact of the Six Day War on Israel and Arab states up to 1978.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.34:
+<a href="../questions/801050.html">To what extent were the economic and social policies of Nasser successful?</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.33:
+<a href="../questions/880686.html">“Post-war tensions and instability were the most important reasons for the origin of the state of...</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.34:
+<a href="../questions/880687.html"><p>“The Confessional state was the most important cause of the civil war in Lebanon in 1975.” To what extent do you agree with this statement?</p></a>
+</li>
+</ul>
+<h4><a href="3306.html">18: Post-independence politics in Africa to 2005</a></h4>
+<ul>
+<li>
+17M.3op1.HL.TZ0.35:
+<a href="../questions/163692.html">Examine the impact of ethnic conflict in two African countries.</a>
+</li>
+<li>
+17M.3op2.HL.TZ0.36:
+<a href="../questions/163693.html">With reference to two post-independence African countries, examine the reasons for economic...</a>
+</li>
+<li>
+17N.3op1.HL.TZ0.35:
+<a href="../questions/218347.html"><p>Evaluate the responses of <strong>two</strong> African countries to the post-independence challenges of disease and poverty.</p></a>
+</li>
+<li>
+17N.3op1.HL.TZ0.36:
+<a href="../questions/218348.html"><p>With reference to <strong>two</strong> African countries, evaluate the success of African states in the return to multi-party democracy in the 1980s and 1990s.</p></a>
+</li>
+<li>
+18M.3op1.HL.TZ0.35:
+<a href="../questions/261320.html">“Poverty and disease were the most significant social and economic challenges facing African...</a>
+</li>
+<li>
+18M.3op1.HL.TZ0.36:
+<a href="../questions/261321.html">“The need for effective government was the most important reason for the establishment of...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.35:
+<a href="../questions/336045.html">“Destabilization by outside forces was the main cause of conflict.” Discuss with reference to two...</a>
+</li>
+<li>
+18N.3op1.HL.TZ0.36:
+<a href="../questions/336046.html">Compare and contrast the impact of military rule on two post-independence African countries.</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.35:
+<a href="../questions/381988.html">Evaluate the importance of personal ambition in the establishment of two single-party states in...</a>
+</li>
+<li>
+19M.3op1.HL.TZ0.36:
+<a href="../questions/381989.html">Evaluate two African states’ return to multi-party democracy in the 1980s and 1990s.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.35:
+<a href="../questions/496136.html">“Ideology was the main cause of ethnic conflict.” Discuss with reference to two African states.</a>
+</li>
+<li>
+19N.3op1.HL.TZ0.36:
+<a href="../questions/496141.html">“Neo-colonial economic exploitation was the most significant challenge to post-independence...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.35:
+<a href="../questions/636919.html">“Personal ambition was the main cause of ethnic conflict.” Discuss with reference to two African...</a>
+</li>
+<li>
+20N.3op1.HL.TZ0.36:
+<a href="../questions/636920.html">With reference to two African countries, examine the reasons for their success or failure in...</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.35:
+<a href="../questions/696388.html">Compare and contrast the causes of ethnic conflict in two African countries.</a>
+</li>
+<li>
+21M.3op1.HL.TZ0.36:
+<a href="../questions/696390.html">“The failure of democracy was the main reason for the establishment of single-party states.”...</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.35:
+<a href="../questions/801052.html">Evaluate the impact of military rule in two African countries.</a>
+</li>
+<li>
+21N.3op1.HL.TZ0.36:
+<a href="../questions/801055.html">Evaluate the impact of neo-colonial economic exploitation in two African countries.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.35:
+<a href="../questions/880688.html">Compare and contrast the impact of civil war in two African countries.</a>
+</li>
+<li>
+22M.3op1.HL.TZ0.36:
+<a href="../questions/880689.html">Discuss the reasons for the establishment of single-party states in two African countries.</a>
+</li>
+</ul>
+
+</div>
+<div class='footer'>
+<div class='container'>
+<hr>
+<div class='pull-right'><img src="../../../../../../assets/logos/ib-logo-tri-med-c7b716881de42a0f0ebfe079e627581480a6e5e6bc85d301dfc71c519001d823.png"></div>
+<p class='muted'>
+<small>
+&copy; International Baccalaureate Organization 2023
+<br>
+International Baccalaureate&reg;  -  Baccalauréat International&reg;  -   Bachillerato Internacional&reg;
+<br>
+<a href="https://www.ibo.org/en/terms-and-conditions/">Terms and conditions</a>
+|
+<a href="https://www.ibo.org/terms-and-conditions/privacy-policy/">Privacy policy</a>
+</small>
+</p>
+<div class='print_only'>
+<div style='float: right;'>
+
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>
